@@ -1,6 +1,6 @@
 ![image](https://github.com/PulseSequenceDesign24/ISMRM2024_PulseSequenceDesignWeekendCourse/assets/166624278/19ab0652-53d5-4013-89ef-11e9820858ef)
 ## ISMRM2024_PulseSequenceDesignWeekendCourse
-This repository provides the accompanying code to the ISMRM 2024 Weekend Course on *Pulse Sequence Design*.\
+This repository provides the accompanying code to the [ISMRM 2024 Weekend Course on *Pulse Sequence Design*](https://www.ismrm.org/24/24program.htm#Sunday).\
 \
 **ORGANIZERS:** Rita G. Nunes, Dan Ma, Yarach Uten\
 Sunday, 05 May 2024\
