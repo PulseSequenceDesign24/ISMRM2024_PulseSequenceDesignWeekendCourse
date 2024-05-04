@@ -23,5 +23,5 @@ Jeanette Schulz-Menger\
 **10:45	 	AI-driven pulse sequence design**\
 Ricardo Otazo\
 \
-**11:15	 	Ultimate MR Encoding**\
+[**11:15	 	Ultimate MR Encoding**\](UltimateMREncoding/README.md)
 Lars Kasper

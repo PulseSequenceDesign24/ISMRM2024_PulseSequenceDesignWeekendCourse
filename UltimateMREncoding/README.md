@@ -17,8 +17,7 @@ Deconstructing the Pulse Sequence Diagram
 Tools for Assessing Encoding
 ----------------------------
 
-- Acquisition Efficiency: Comparison Table and Trajectory Generation [Educational Code related to  chapter 24: _"BOLD fMRI: Physiology and Acquisition strategies"_ (Kâmil Uludağ and Lars Kasper) in book *"Ultra High Field Neuro MRI"*](https://github.com/BRAIN-TO/book-chapter-uhf-neuro-mri)
-- Sensitivity Analysis
-- Point Spread Function (Resolution Limits)
-
-[ISMRM MR Academy on YouTube: Reconstruction Methods for Undersampled Data (Jeff Fessler)](https://www.youtube.com/watch?v=itO5SnNKwdE&list=PLbkiZxYouIu4koswmke1ZVjZrFLhkCGeb)
+1. Acquisition Efficiency: Comparison Table and Trajectory Generation [Educational Code related to  chapter 24: _"BOLD fMRI: Physiology and Acquisition strategies"_ (Kâmil Uludağ and Lars Kasper) in book *"Ultra High Field Neuro MRI"*](https://github.com/BRAIN-TO/book-chapter-uhf-neuro-mri)
+2. Sensitivity Analysis
+3. Information Correlation: Resolution and Point Spread Functions
+    - Reconstructions utilizing Signal Correlations: [ISMRM MR Academy on YouTube: Reconstruction Methods for Undersampled Data (Jeff Fessler)](https://www.youtube.com/watch?v=itO5SnNKwdE&list=PLbkiZxYouIu4koswmke1ZVjZrFLhkCGeb)
