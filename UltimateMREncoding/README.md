@@ -11,8 +11,10 @@ Deconstructing the Pulse Sequence Diagram
 2. Gradients: Trajectories
     - Tilted Hexagonal Grids (T-Hex): 
         - [Grid Generator Code](https://gitlab.ethz.ch/mengel/thex)
-        - [Pulseq file](exampleSequenceRF1.seq) for 3 simultaneously excited slices (MB=3), single-shot
+        - [Pulseq file](THex_MB3_RF_VERSE_ExampleSequence.seq.seq) for 3 simultaneously excited slices (MB=3), single shot, VERSE RF Pulse
+            - [Earlier version of Pulseq file](THex_MB3_LowADC_ExampleSequence) for same T-Hex version (simpler RF pulse and wrong ADC)
         - [SMS-Diffusion T-Hex Connectome Data](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29953) (Search for Data Availability Statement to find access details)
+        - [Holocene Sampling ISMRM24 Abstract](https://submissions.mirasmart.com/ISMRM2024/ViewSubmissionFile.aspx?mode=videoabs&validate=false&sbmID=3352) on generalizations of T-Hex and CAIPIRINHA for non-integer undersampling factors R
     - Julia Reconstruction of non-Cartesian trajectory data (e.g,. spirals): [MRIReco.jl](https://github.com/MagneticResonanceImaging/MRIReco.jl) and [GIRFReco.jl](https://github.com/BRAIN-TO/GIRFReco.jl)
 3. Acquisition
 4. Beyond Encoding Images: [ISMRM MR Academy on YouTube: MR Fingerprinting (Dan Ma)](https://www.youtube.com/watch?v=zWO09lNGYao&list=PLbkiZxYouIu4koswmke1ZVjZrFLhkCGeb&index=4)
